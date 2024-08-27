@@ -1,0 +1,15 @@
+.slack-button {
+    background-color: var(--emerald500);
+    color: var(--text-white);
+    border-radius: 10%;
+    height: 40px;
+    width: 90px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.slack-button:hover {
+    background-color: var(--emerald500);
+    opacity: 0.8
+}
